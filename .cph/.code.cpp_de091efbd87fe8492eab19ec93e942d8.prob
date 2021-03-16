@@ -1,1 +1,1 @@
-{"name":"Local: code","url":"d:\\xampp\\htdocs\\Wallet-API\\code.cpp","tests":[{"id":1615720917369,"input":"5\n1 2 3 4 5\n2","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xampp\\htdocs\\Wallet-API\\code.cpp","group":"local","local":true}
+{"name":"Local: code","url":"d:\\xampp\\htdocs\\Wallet-API\\code.cpp","tests":[{"id":1615720917369,"input":"5","output":"1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\xampp\\htdocs\\Wallet-API\\code.cpp","group":"local","local":true}

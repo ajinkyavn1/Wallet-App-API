@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/ajinkyavn1/Wallet-API#readme",
   "dependencies": {
+    "body-parser": "^1.19.0",
+    "crypto": "^1.0.1",
     "express": "^4.17.1",
     "mysql": "^2.18.1"
   }
